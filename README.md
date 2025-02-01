@@ -1,78 +1,104 @@
-# Hello, I'm Nandini Singh 👋
+# 🚀 Welcome to My GitHub Profile! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer, competitive programmer, and open-source enthusiast. Here, you'll find my projects, contributions, and insights into my journey.
-
-## 🚀 About Me
-
-I'm a developer who loves tackling challenges and building scalable solutions. I'm always excited about learning new technologies and improving my skills.
-
-- 🌱 I’m learning *Django, **Docker
-- 👯 I’m looking to collaborate on open-source projects
-- 🧠 I’m constantly exploring cloud technologies
-- 💬 Ask me about *JavaScript, **Python, **Django, **Web Development, **Machine Learning*, etc.
-
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandinisingh27&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## 🔧 Technologies & Tools
-
-### Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
-
-### Tools:
-![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
-### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6A4C3C.svg?style=flat&logo=phpmyadmin&logoColor=white)
-
-### Frameworks:
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white) 
-![Django Rest Framework](https://img.shields.io/badge/DRF-%23092E20.svg?style=flat&logo=django&logoColor=white)
-
-## 🌟 Featured Projects
-
-### [CampusCare](https://github.com/nandinisingh27/CampusCare)
-The Hostel Grievance Management System allows hostel residents to submit complaints regarding facilities, services, or issues. These grievances are categorized and managed at different levels, ensuring efficient resolution. The system tracks complaint status, assigns responsible personnel, and improves accountability, creating a transparent and structured approach to hostel issue resolution.
-### [VitalCure](https://github.com/nandinisingh27/VitalCure-hospital-management-system-)
-The Hospital Management System enables patients to schedule appointments, which receptionists can approve or reject. Doctors review and confirm appointments, then provide prescriptions after consultations. This system streamlines scheduling, reduces wait times, and ensures efficient healthcare management by integrating patient, receptionist, and doctor interactions into a seamless digital workflow.
-## 🏆 LeetCode Stats
-
-Check out my LeetCode profile for my competitive programming achievements!
-
-[![LeetCode Stats](https://leetcode.card.api.leetcode.com/users/nandinisingh27-competitive-programmer-stats?theme=light)](https://leetcode.com/u/nandinisingh27/)
-
-## 📄 Resume
-
-You can view and download my resume from the link below:
-
-[*Download Resume*](https://drive.google.com/file/d/15J7dqrG9qxeUBvMLQKTte-Cqf-nVg2VG/view?usp=sharing)
-
-## 📈 Most Used Languages
-
-Here's a quick look at the languages I use most often:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisingh27&layout=compact&theme=radical)
-
-
-## 📬 Get In Touch
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nandini-singh-a025a6299/)
-- ✉️ [Email](mailto:nandinisingh52891@gmail.com)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandinisingh27&theme=radical)
-
-## 🎯 Contribution Activity
-
-![Your Name's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nandinisingh27&theme=github)
+Hey there! I'm **Nandini Singh**, a passionate **software developer, competitive programmer, and open-source enthusiast**. Here, you'll find my projects, contributions, and insights into my journey.
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+## 🌟 About Me
+
+- 💻 **Developer** | **Problem Solver** | **Tech Enthusiast**
+- 🌱 Currently learning **Django & Docker**
+- 👯 Open to **collaborating on open-source projects**
+- 🧠 Exploring **Cloud Technologies**
+- 💬 Ask me about **JavaScript, Python, Django, Web Development**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandinisingh27&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinisingh27&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisingh27&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🔧 Technologies & Tools
+
+### 🚀 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6A4C3C.svg?style=flat&logo=phpmyadmin&logoColor=white" />
+</p>
+
+### 📚 Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-%23092E20.svg?style=flat&logo=django&logoColor=white" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 [CampusCare](https://github.com/nandinisingh27/CampusCare)
+> A **Hostel Grievance Management System** that allows residents to submit complaints and track their resolution efficiently.
+
+### 🏥 [VitalCure](https://github.com/nandinisingh27/VitalCure-hospital-management-system-)
+> A **Hospital Management System** that streamlines **appointments, prescriptions, and doctor-patient interactions**.
+
+---
+
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcode.card.api.leetcode.com/users/nandinisingh27-competitive-programmer-stats?theme=light" alt="LeetCode Stats" />
+  <br/>
+  <img src="https://leetcard.jacoblin.cool/nandinisingh27?theme=light&ext=activity" alt="LeetCode Activity Chart" />
+</p>
+
+---
+
+## 📄 Resume
+
+🔗 **[Download My Resume](https://drive.google.com/file/d/15J7dqrG9qxeUBvMLQKTte-Cqf-nVg2VG/view?usp=sharing)**
+
+---
+
+## 📬 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/nandini-singh-a025a6299/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nandinisingh52891@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### ⭐ **Thank You for Visiting!**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300" alt="Thank You GIF" />
+</p>
+
+Feel free to explore my repositories, connect with me, and collaborate on exciting projects. Let's build something amazing together! 🚀
