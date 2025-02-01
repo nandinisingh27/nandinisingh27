@@ -1,4 +1,4 @@
-# Hello, I'm [Nandini Singh] 👋
+# Hello, I'm Nandini Singh 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer, competitive programmer, and open-source enthusiast. Here, you'll find my projects, contributions, and insights into my journey.
 
@@ -13,7 +13,7 @@ I'm a developer who loves tackling challenges and building scalable solutions. I
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandinisingh27&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 🔧 Technologies & Tools
 
@@ -39,13 +39,13 @@ I'm a developer who loves tackling challenges and building scalable solutions. I
 
 ### [CampusCare](https://github.com/nandinisingh27/CampusCare)
 The Hostel Grievance Management System allows hostel residents to submit complaints regarding facilities, services, or issues. These grievances are categorized and managed at different levels, ensuring efficient resolution. The system tracks complaint status, assigns responsible personnel, and improves accountability, creating a transparent and structured approach to hostel issue resolution.
-### [VitalCure](https://github.com/nandinisingh27/VitalCure-hospital-management-system-))
+### [VitalCure](https://github.com/nandinisingh27/VitalCure-hospital-management-system-)
 The Hospital Management System enables patients to schedule appointments, which receptionists can approve or reject. Doctors review and confirm appointments, then provide prescriptions after consultations. This system streamlines scheduling, reduces wait times, and ensures efficient healthcare management by integrating patient, receptionist, and doctor interactions into a seamless digital workflow.
 ## 🏆 LeetCode Stats
 
 Check out my LeetCode profile for my competitive programming achievements!
 
-[![LeetCode Stats](https://leetcode.card.api.leetcode.com/users/your-username-competitive-programmer-stats?theme=light)](https://leetcode.com/u/nandinisingh27/)
+[![LeetCode Stats](https://leetcode.card.api.leetcode.com/users/nandinisingh27-competitive-programmer-stats?theme=light)](https://leetcode.com/u/nandinisingh27/)
 
 ## 📄 Resume
 
@@ -57,7 +57,7 @@ You can view and download my resume from the link below:
 
 Here's a quick look at the languages I use most often:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandinisingh27&layout=compact&theme=radical)
 
 
 ## 📬 Get In Touch
@@ -67,11 +67,11 @@ Here's a quick look at the languages I use most often:
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandinisingh27&theme=radical)
 
 ## 🎯 Contribution Activity
 
-![Your Name's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=github)
+![Your Name's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nandinisingh27&theme=github)
 
 ---
 
