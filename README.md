@@ -82,7 +82,7 @@ Hey there! I'm **Nandini Singh**, a passionate **software developer, competitive
 
 ## 📄 Resume
 
-🔗 **[Download My Resume](https://drive.google.com/file/d/15J7dqrG9qxeUBvMLQKTte-Cqf-nVg2VG/view?usp=sharing)**
+🔗 **[Download My Resume](https://drive.google.com/file/d/1feuwrl3H_ZHzUg8kEXLymzk_ZrV3zZb5/view?usp=sharing)**
 
 ---
 
